@@ -9,6 +9,6 @@ This repository contains the resources for the categorization of contributors of
 - [index.py](./index.py): Script to procces the content of `astropy_astropy_bus_factor.json` and generate `astropy_authorship_table.csv`
 - [env.yml](./env.yml): Configuration file to create the conda environment to run `index.py`
 - [astropy_authorship_table.csv](./astropy_authorship_table.csv): Table with the contributors of the Astropy project and their level of authorship.
-- [astropy_authorship_table.csv](./astropy_authorship_table.xlsx): Table with the categorization of the contributors based on their level of authorship.
+- [astropy_authorship_table.xlsx](./astropy_authorship_table.xlsx): Table with the categorization of the contributors based on their level of authorship.
 
 
